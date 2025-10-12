@@ -1,5 +1,12 @@
 # mac file
-.DS_Sotre
+.DS_Store
+
+# C++ build output (manual names)
+main
+
+# IDE settings
+.vscode/
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/c,c++
 # Edit at https://www.toptal.com/developers/gitignore?templates=c,c++
