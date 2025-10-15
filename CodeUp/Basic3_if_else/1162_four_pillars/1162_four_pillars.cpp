@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  int year, month, day;
+  cin >> year >> month >> day;
+  int value = year - month + day;
+  
+  value = value % 10;
+  if (value == 0)
+    cout << "대박" << "\n";
+  else
+    cout << "그럭저럭" << "\n";
+
+  return 0;
+}
