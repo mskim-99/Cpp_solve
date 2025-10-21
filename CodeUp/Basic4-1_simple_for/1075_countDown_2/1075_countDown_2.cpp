@@ -12,7 +12,9 @@ int main()
   {
     n--;
     cout << n << "\n";
+    
   }
+  
 
   return 0;
 }
